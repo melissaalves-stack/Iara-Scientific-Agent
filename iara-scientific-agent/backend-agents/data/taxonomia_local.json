@@ -1,0 +1,119 @@
+[
+  {
+    "nome_cientifico": "Carapa guianensis",
+    "autoria": "Aubl.",
+    "familia": "Meliaceae",
+    "nomes_populares": [
+      "andiroba",
+      "andirobeira",
+      "carapa"
+    ],
+    "sinonimos": []
+  },
+  {
+    "nome_cientifico": "Copaifera reticulata",
+    "autoria": "Ducke",
+    "familia": "Fabaceae",
+    "nomes_populares": [
+      "copaiba",
+      "copaibeira",
+      "pau-de-oleo"
+    ],
+    "sinonimos": [
+      "Copaifera copaibo"
+    ]
+  },
+  {
+    "nome_cientifico": "Uncaria tomentosa",
+    "autoria": "(Willd. ex Schult.) DC.",
+    "familia": "Rubiaceae",
+    "nomes_populares": [
+      "unha-de-gato",
+      "unha de gato",
+      "cipo-unha-de-gato"
+    ],
+    "sinonimos": []
+  },
+  {
+    "nome_cientifico": "Fridericia chica",
+    "autoria": "(Bonpl.) L.G.Lohmann",
+    "familia": "Bignoniaceae",
+    "nomes_populares": [
+      "crajiru",
+      "pariri",
+      "carajuru",
+      "cipo-cruz"
+    ],
+    "sinonimos": [
+      "Arrabidaea chica"
+    ]
+  },
+  {
+    "nome_cientifico": "Acmella oleracea",
+    "autoria": "(L.) R.K.Jansen",
+    "familia": "Asteraceae",
+    "nomes_populares": [
+      "jambu",
+      "agriao-do-para",
+      "agriao-do-norte"
+    ],
+    "sinonimos": [
+      "Spilanthes oleracea"
+    ]
+  },
+  {
+    "nome_cientifico": "Euterpe oleracea",
+    "autoria": "Mart.",
+    "familia": "Arecaceae",
+    "nomes_populares": [
+      "acai",
+      "acaizeiro",
+      "acai-do-para"
+    ],
+    "sinonimos": []
+  },
+  {
+    "nome_cientifico": "Croton cajucara",
+    "autoria": "Benth.",
+    "familia": "Euphorbiaceae",
+    "nomes_populares": [
+      "sacaca",
+      "casca-sacaca"
+    ],
+    "sinonimos": []
+  },
+  {
+    "nome_cientifico": "Phyllanthus niruri",
+    "autoria": "L.",
+    "familia": "Phyllanthaceae",
+    "nomes_populares": [
+      "quebra-pedra",
+      "quebra pedra",
+      "erva-pombinha"
+    ],
+    "sinonimos": []
+  },
+  {
+    "nome_cientifico": "Protium heptaphyllum",
+    "autoria": "(Aubl.) Marchand",
+    "familia": "Burseraceae",
+    "nomes_populares": [
+      "breu-branco",
+      "breu branco",
+      "almecega",
+      "breu"
+    ],
+    "sinonimos": []
+  },
+  {
+    "nome_cientifico": "Dipteryx odorata",
+    "autoria": "(Aubl.) Forsyth f.",
+    "familia": "Fabaceae",
+    "nomes_populares": [
+      "cumaru",
+      "cumarurana",
+      "fava-tonka"
+    ],
+    "sinonimos": []
+  }
+]

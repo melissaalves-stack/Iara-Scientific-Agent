@@ -1,0 +1,6 @@
+<resources>
+    <!-- Paleta Folha-gota (docs/IDENTIDADE_VISUAL.md) -->
+    <color name="verde_copaiba">#1F4A33</color>
+    <color name="rio_negro">#1D3B4F</color>
+    <color name="palha">#F3EDDD</color>
+</resources>

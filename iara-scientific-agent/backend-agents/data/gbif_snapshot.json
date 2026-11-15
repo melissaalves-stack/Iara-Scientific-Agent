@@ -1,0 +1,131 @@
+{
+ "_sobre": "Respostas REAIS da API pública do GBIF (api.gbif.org/v1), consultadas em 15/11/2026. Usadas quando não há internet (TAXONOMIA_OFFLINE=1) e para gerar a demonstração. Com internet, o sistema consulta a API ao vivo e os números podem ter mudado.",
+ "consultado_em": "2026-11-15",
+ "match": {
+  "Carapa guianensis": {
+   "usageKey": 3190513,
+   "scientificName": "Carapa guianensis Aubl.",
+   "canonicalName": "Carapa guianensis",
+   "status": "ACCEPTED",
+   "matchType": "EXACT",
+   "family": "Meliaceae",
+   "rank": "SPECIES"
+  },
+  "Copaifera reticulata": {
+   "usageKey": 2978143,
+   "scientificName": "Copaifera reticulata Ducke",
+   "canonicalName": "Copaifera reticulata",
+   "status": "SYNONYM",
+   "matchType": "EXACT",
+   "family": "Fabaceae",
+   "rank": "SPECIES",
+   "acceptedUsageKey": 12260954
+  },
+  "Uncaria tomentosa": {
+   "usageKey": 5338267,
+   "scientificName": "Uncaria tomentosa (Willd. ex Schult.) DC.",
+   "canonicalName": "Uncaria tomentosa",
+   "status": "ACCEPTED",
+   "matchType": "EXACT",
+   "family": "Rubiaceae",
+   "rank": "SPECIES"
+  },
+  "Fridericia chica": {
+   "usageKey": 7669080,
+   "scientificName": "Fridericia chica (Bonpl.) L.G.Lohmann",
+   "canonicalName": "Fridericia chica",
+   "status": "ACCEPTED",
+   "matchType": "EXACT",
+   "family": "Bignoniaceae",
+   "rank": "SPECIES"
+  },
+  "Acmella oleracea": {
+   "usageKey": 5386764,
+   "scientificName": "Acmella oleracea (L.) R.K.Jansen",
+   "canonicalName": "Acmella oleracea",
+   "status": "ACCEPTED",
+   "matchType": "EXACT",
+   "family": "Asteraceae",
+   "rank": "SPECIES"
+  },
+  "Euterpe oleracea": {
+   "usageKey": 5293398,
+   "scientificName": "Euterpe oleracea Mart.",
+   "canonicalName": "Euterpe oleracea",
+   "status": "ACCEPTED",
+   "matchType": "EXACT",
+   "family": "Arecaceae",
+   "rank": "SPECIES"
+  },
+  "Croton cajucara": {
+   "usageKey": 3060105,
+   "scientificName": "Croton cajucara Benth.",
+   "canonicalName": "Croton cajucara",
+   "status": "ACCEPTED",
+   "matchType": "EXACT",
+   "family": "Euphorbiaceae",
+   "rank": "SPECIES"
+  },
+  "Phyllanthus niruri": {
+   "usageKey": 5381945,
+   "scientificName": "Phyllanthus niruri L.",
+   "canonicalName": "Phyllanthus niruri",
+   "status": "ACCEPTED",
+   "matchType": "EXACT",
+   "family": "Phyllanthaceae",
+   "rank": "SPECIES"
+  },
+  "Protium heptaphyllum": {
+   "usageKey": 7286785,
+   "scientificName": "Protium heptaphyllum (Aubl.) Marchand",
+   "canonicalName": "Protium heptaphyllum",
+   "status": "ACCEPTED",
+   "matchType": "EXACT",
+   "family": "Burseraceae",
+   "rank": "SPECIES"
+  },
+  "Dipteryx odorata": {
+   "usageKey": 10779983,
+   "scientificName": "Dipteryx odorata (Aubl.) Forsyth f.",
+   "canonicalName": "Dipteryx odorata",
+   "status": "ACCEPTED",
+   "matchType": "EXACT",
+   "family": "Fabaceae",
+   "rank": "SPECIES"
+  },
+  "pau-de-angola-do-mato": {
+   "usageKey": 6,
+   "scientificName": "Plantae",
+   "matchType": "HIGHERRANK",
+   "rank": "KINGDOM",
+   "confidence": 99
+  }
+ },
+ "especie": {
+  "12260954": {
+   "key": 12260954,
+   "scientificName": "Copaifera copaibo Doweld",
+   "canonicalName": "Copaifera copaibo",
+   "taxonomicStatus": "ACCEPTED",
+   "family": "Fabaceae"
+  }
+ },
+ "ocorrencias_brasil": {
+  "3190513": 1357,
+  "12260954": 567,
+  "5338267": 68,
+  "7669080": 2753,
+  "5386764": 427,
+  "5293398": 498,
+  "3060105": 397,
+  "5381945": 3250,
+  "7286785": 8716,
+  "10779983": 1223
+ },
+ "ocorrencias_proximas": {
+  "3190513@-2.91,-55.3": 52,
+  "12260954@-3.35,-55.01": 7,
+  "5338267@-2.96,-60.71": 0
+ },
+ "_consultas_proximas": "Raio de 100 km (parâmetro geoDistance). Pontos consultados: andiroba (-2.91,-55.30), copaíba (-3.351,-55.012), unha-de-gato (-2.96,-60.71)."
+}

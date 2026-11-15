@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/api.ts","./src/darwinCore.ts","./src/main.tsx","./src/types.ts","./src/components/ChatBar.tsx","./src/components/Drawer.tsx","./src/components/Mapa.tsx","./src/components/Marca.tsx","./vite.config.ts"],"version":"5.7.2"}

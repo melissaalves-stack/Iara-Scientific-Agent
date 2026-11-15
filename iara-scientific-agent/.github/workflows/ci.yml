@@ -1,0 +1,57 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  backend:
+    name: Backend (Python + testes)
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: backend-agents
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements-dev.txt
+      - run: pytest
+
+  painel-web:
+    name: Painel web (TypeScript + build)
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web-curator-panel
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: web-curator-panel/package-lock.json
+      - run: npm ci
+      - run: npm run build
+
+  android:
+    name: App Android (testes + APK)
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: android-field-copilot
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+      - uses: gradle/actions/setup-gradle@v4
+      - run: ./gradlew testDebugUnitTest assembleDebug --no-daemon
+      - name: Disponibilizar o APK para download
+        uses: actions/upload-artifact@v4
+        with:
+          name: iara-campo-debug-apk
+          path: android-field-copilot/app/build/outputs/apk/debug/app-debug.apk

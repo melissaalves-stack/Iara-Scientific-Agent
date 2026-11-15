@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+backend-agents/uploads/
+backend-agents/iara_local.db
+scripts/fila_offline.json
+
+# Node
+node_modules/
+dist/
+
+# Android
+android-field-copilot/.gradle/
+android-field-copilot/build/
+android-field-copilot/app/build/
+android-field-copilot/local.properties
+android-field-copilot/.idea/
+*.apk
+
+# Sistema
+.DS_Store
+.env

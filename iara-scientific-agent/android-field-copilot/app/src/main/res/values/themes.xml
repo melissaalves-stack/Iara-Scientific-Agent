@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Iara" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#1F4A33</item>
+        <item name="android:navigationBarColor">#FBF8F0</item>
+        <item name="android:windowBackground">@color/palha</item>
+    </style>
+</resources>

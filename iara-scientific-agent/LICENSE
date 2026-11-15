@@ -1,0 +1,32 @@
+Copyright (c) 2026 Melissa Hollanda de Oliveira Alves. Todos os direitos reservados.
+
+Este software e todo o conteúdo original deste repositório (código-fonte, documentação,
+identidade visual, logotipo, textos e imagens) são de propriedade exclusiva da autora.
+
+Nenhuma permissão é concedida, expressa ou implicitamente, para usar, copiar, modificar,
+mesclar, publicar, distribuir, sublicenciar, vender, hospedar, executar em produção ou
+criar obras derivadas deste software, no todo ou em parte, para qualquer finalidade,
+comercial ou não, sem autorização prévia e por escrito da autora.
+
+A disponibilização deste repositório para visualização pública tem como único objetivo
+apresentar o trabalho da autora (portfólio). Ela não constitui licença de uso.
+
+Componentes de terceiros mantêm suas próprias licenças e não são alcançados por este aviso:
+  - fontes Young Serif, EB Garamond e Work Sans: SIL Open Font License 1.1;
+  - dados geográficos do pacote geobr/IPEA, IBGE, MMA, FUNAI e Natural Earth: conforme
+    os termos de cada fonte;
+  - dados de ocorrência e taxonomia do GBIF: conforme a licença de cada conjunto de dados;
+  - bibliotecas de software listadas em requirements.txt, package.json e build.gradle.kts:
+    conforme suas respectivas licenças.
+
+O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIA DE QUALQUER TIPO.
+
+Para pedidos de autorização, entre em contato com a autora pelo GitHub:
+https://github.com/melissaalves-stack
+
+---
+
+Copyright (c) 2026 Melissa Hollanda de Oliveira Alves. All rights reserved.
+No license is granted to use, copy, modify, distribute or create derivative works of this
+software, in whole or in part, without the author's prior written permission. Public
+visibility of this repository is for portfolio purposes only and does not grant any license.

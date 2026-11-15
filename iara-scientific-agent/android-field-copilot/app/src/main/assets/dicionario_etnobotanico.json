@@ -1,0 +1,119 @@
+[
+ {
+  "nomes_populares": [
+   "andiroba",
+   "andirobeira",
+   "carapa"
+  ],
+  "nome_cientifico": "Carapa guianensis",
+  "familia": "Meliaceae",
+  "sinonimos": [],
+  "usos_conhecidos": "analgesico, anti-inflamatorio, repelente"
+ },
+ {
+  "nomes_populares": [
+   "copaiba",
+   "copaibeira",
+   "pau-de-oleo"
+  ],
+  "nome_cientifico": "Copaifera reticulata",
+  "familia": "Fabaceae",
+  "sinonimos": [
+   "Copaifera copaibo"
+  ],
+  "usos_conhecidos": "anti-inflamatorio, cicatrizante"
+ },
+ {
+  "nomes_populares": [
+   "unha-de-gato",
+   "unha de gato",
+   "cipo-unha-de-gato"
+  ],
+  "nome_cientifico": "Uncaria tomentosa",
+  "familia": "Rubiaceae",
+  "sinonimos": [],
+  "usos_conhecidos": "anti-inflamatorio"
+ },
+ {
+  "nomes_populares": [
+   "crajiru",
+   "pariri",
+   "carajuru",
+   "cipo-cruz"
+  ],
+  "nome_cientifico": "Fridericia chica",
+  "familia": "Bignoniaceae",
+  "sinonimos": [
+   "Arrabidaea chica"
+  ],
+  "usos_conhecidos": "cicatrizante, figado"
+ },
+ {
+  "nomes_populares": [
+   "jambu",
+   "agriao-do-para",
+   "agriao-do-norte"
+  ],
+  "nome_cientifico": "Acmella oleracea",
+  "familia": "Asteraceae",
+  "sinonimos": [
+   "Spilanthes oleracea"
+  ],
+  "usos_conhecidos": "alimentar, analgesico, anestesico local, anti-inflamatorio"
+ },
+ {
+  "nomes_populares": [
+   "acai",
+   "acaizeiro",
+   "acai-do-para"
+  ],
+  "nome_cientifico": "Euterpe oleracea",
+  "familia": "Arecaceae",
+  "sinonimos": [],
+  "usos_conhecidos": "alimentar, anti-inflamatorio"
+ },
+ {
+  "nomes_populares": [
+   "sacaca",
+   "casca-sacaca"
+  ],
+  "nome_cientifico": "Croton cajucara",
+  "familia": "Euphorbiaceae",
+  "sinonimos": [],
+  "usos_conhecidos": "analgesico, anti-inflamatorio, digestivo, figado"
+ },
+ {
+  "nomes_populares": [
+   "quebra-pedra",
+   "quebra pedra",
+   "erva-pombinha"
+  ],
+  "nome_cientifico": "Phyllanthus niruri",
+  "familia": "Phyllanthaceae",
+  "sinonimos": [],
+  "usos_conhecidos": "rins"
+ },
+ {
+  "nomes_populares": [
+   "breu-branco",
+   "breu branco",
+   "almecega",
+   "breu"
+  ],
+  "nome_cientifico": "Protium heptaphyllum",
+  "familia": "Burseraceae",
+  "sinonimos": [],
+  "usos_conhecidos": "analgesico, anti-inflamatorio"
+ },
+ {
+  "nomes_populares": [
+   "cumaru",
+   "cumarurana",
+   "fava-tonka"
+  ],
+  "nome_cientifico": "Dipteryx odorata",
+  "familia": "Fabaceae",
+  "sinonimos": [],
+  "usos_conhecidos": "sem estudos na base"
+ }
+]
